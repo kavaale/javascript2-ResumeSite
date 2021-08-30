@@ -44,3 +44,16 @@
 #headerpicture {
     width: 100%;
 }
+
+body {
+    background-color: #4d5384;
+}
+
+#wrapper {
+    background-color: #FFFBFA;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
